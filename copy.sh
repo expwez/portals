@@ -1,0 +1,1 @@
+cat ./dist/compiled.lua | xclip -se c

@@ -1,0 +1,41 @@
+<p>
+	<p align='center'>
+		<b>
+			<font face='helvetica' size='22' color='#ffff00'>Welcome to Portal!</font>
+		</b>
+	</p>
+	<br />
+	<font face='soopafresh' size='17' color='#00FF00'>
+		Use
+		<font color='#37CAE6'>
+			<b>portals </b>
+		</font>and
+		<font color='#C13EC1'>
+			<b>arrows </b>
+		</font>to help mice to get cheese.
+	</font>
+	<br />
+	<font face='soopafresh' size='15' color='#ffff00'> Commands:</font>
+	<br />
+	<font face='soopafresh' size='15'>
+		!help - show help.
+		<br />
+		!setdiff x-y or !setdiff x - set difficulty
+		<br />
+		<a href='event:skip'>
+			!skip - skip the map when you are a shaman.
+		</a>
+		<br />
+		<a href='event:mort'>
+			!mort - die.
+		</a>
+	</font>
+	<br />
+	<p align='center'>
+		<b>
+			<font face='soopafresh' size='18'>
+				<a href='event:closeTextArea'>Close</a>
+			</font>
+		</b>
+	</p>
+</p>
