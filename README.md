@@ -1,3 +1,9 @@
+<p align=center>
+    <img alt="Portals" src="https://raw.githubusercontent.com/expwez/portals/master/logo.jpg">
+</p>
+
+---
+
 # Portals Module
 
 Portals is a room where shaman helps mice to get cheese using only arrows and portals. The difficulty for maps varies from 1 to 5 difficulty (1 = easy, 5 = hard). Don’t think this is going to be easy: if you want to get experience to level up, you have to help mice which is hard. Test your abilities and find out how smart you are to complete maps!
