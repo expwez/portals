@@ -218,11 +218,6 @@ local settings = {
 					wind = 0
 				},
 				{
-					map = "@7585687",
-					gravity = 10,
-					wind = 0
-				},
-				{
 					map = "@7586938",
 					gravity = 13,
 					wind = -10
